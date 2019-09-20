@@ -21,7 +21,7 @@ function consume(a, b, cb){
 const add = function(a, b){
   return a + b
 }
-const ultiply = function(a, b){
+const multiply = function(a, b){
   return a * b;
 }
 const greeting = function(a, b){
